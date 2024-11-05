@@ -2,6 +2,7 @@
 Bu proje bir kütüphane otomasyonu uygulamasıdır. Kütüphane personelinin kitap envanterini yönetmesini, ödünç alma/iade işlemlerini takip etmesini ve kullanıcı bilgilerini düzenlemesini kolaylaştırmak amacıyla tasarlanmıştır. Sistem, basit bir kullanıcı arayüzü ve güçlü bir veritabanı altyapısıyla verimli bir kütüphane yönetim deneyimi sunmaktadır.
 
  **Özellikler**; 
+
  **Kitap Yönetimi**: Yeni kitap ekleme, mevcut kitapları düzenleme ve kitap silme işlemleri.
 
  **Üye Yönetimi**: Üye kayıt, düzenleme ve silme işlemleri.
