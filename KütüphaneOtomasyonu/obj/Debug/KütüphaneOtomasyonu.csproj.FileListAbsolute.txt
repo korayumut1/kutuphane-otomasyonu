@@ -1,0 +1,5 @@
+C:\Users\SEFACAN AKSU\source\repos\KütüphaneOtomasyonu\KütüphaneOtomasyonu\obj\Debug\KütüphaneOtomasyonu.csproj.AssemblyReference.cache
+C:\Users\SEFACAN AKSU\source\repos\KütüphaneOtomasyonu\KütüphaneOtomasyonu\obj\Debug\KütüphaneOtomasyonu.Properties.Resources.resources
+C:\Users\SEFACAN AKSU\source\repos\KütüphaneOtomasyonu\KütüphaneOtomasyonu\obj\Debug\KütüphaneOtomasyonu.csproj.GenerateResource.cache
+C:\Users\SEFACAN AKSU\source\repos\KütüphaneOtomasyonu\KütüphaneOtomasyonu\obj\Debug\KütüphaneOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\SEFACAN AKSU\source\repos\KütüphaneOtomasyonu\KütüphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.Form1.resources
